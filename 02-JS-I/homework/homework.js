@@ -189,7 +189,7 @@ function esPositivo(numero) {
 } else if (numero > 0) {
   return 'Es positivo';
 }
-else  (numero < 0) { 
+else { 
 return 'es negativo';
 }
 }
